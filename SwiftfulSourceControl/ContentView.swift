@@ -14,10 +14,6 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
-
-            Button("Click me!") {
-                
-            }
         }
         .padding()
     }
@@ -26,4 +22,3 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
-
