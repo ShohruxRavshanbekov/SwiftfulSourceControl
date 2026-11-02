@@ -1,6 +1,6 @@
-# Swiftful Source Control  🤙
+# Swiftful Source Control
 
-Full source code for the Swiftful Source Control playlist available for FREE on YouTube @SwiftfulThinking. 
+Full source code for the Swiftful Source Control playlist is available for FREE on YouTube @SwiftfulThinking. 
 
 ## How It Works
 
