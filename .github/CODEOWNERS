@@ -4,5 +4,5 @@
 
 # The following example assumes 'ShohruxRavshanbekov' should be the code owner for specific directories and file types
 
-$ To make 'ShohruxRavshanbekov' the default owner for everything in the repo
+# To make 'ShohruxRavshanbekov' the default owner for everything in the repo
 *       @ShohruxRavshanbekov
